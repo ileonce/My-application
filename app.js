@@ -1,1 +1,1 @@
-let;
+console.log("my app");
